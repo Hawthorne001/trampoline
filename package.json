@@ -52,7 +52,7 @@
     "siwe": "^1.1.6",
     "ssestream": "^1.1.0",
     "uuid": "^9.0.0",
-    "viem": "^1.6.0",
+    "viem": "^2.15.1",
     "wagmi": "^1.3.10",
     "webext-redux": "^2.1.9",
     "webextension-polyfill": "^0.10.0",
