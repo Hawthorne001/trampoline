@@ -36,7 +36,7 @@
     "base64url": "^3.0.1",
     "buffer": "^6.0.3",
     "daisyui": "^2.49.0",
-    "elliptic": "^6.5.4",
+    "elliptic": "^6.6.0",
     "emittery": "^1.0.1",
     "ethers": "^5.7.2",
     "extensionizer": "^1.0.1",
